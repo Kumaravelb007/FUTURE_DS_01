@@ -1,6 +1,7 @@
 FUTURE_DS_01 — Business Sales Dashboard (E-Commerce Data Analytics)
 
 📘 Project Overview
+
 This project is part of my **Data Science & Analytics Internship** at **Future Interns**.  
 The goal is to analyze e-commerce sales data and build an **interactive Power BI dashboard** that helps business leaders identify:
 - Best-selling products  
@@ -10,18 +11,19 @@ The goal is to analyze e-commerce sales data and build an **interactive Power BI
 
 The dashboard transforms raw transactional data into actionable insights to support data-driven decision-making.
 
----
 
 🧠 Business Objective
+
 E-commerce businesses handle thousands of transactions daily, making it essential to monitor sales patterns effectively.  
 This dashboard provides:
 1. **Real-time tracking** of key metrics (Sales, Orders, Profit, AOV).  
 2. **Trend analysis** to highlight growth and seasonal demand.  
 3. **Category and product-level insights** for business optimization.  
 
----
+
 
 🧰 Tools & Technologies
+
 | Category | Tools Used |
 |-----------|-------------|
 | Data Cleaning | Microsoft Excel |
@@ -30,7 +32,7 @@ This dashboard provides:
 | Dataset | Superstore (E-Commerce Dataset) |
 | Version Control | GitHub |
 
----
+
 
 🔍 Workflow
 
